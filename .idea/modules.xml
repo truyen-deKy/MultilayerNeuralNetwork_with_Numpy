@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/boston_housing_prediction.iml" filepath="$PROJECT_DIR$/.idea/boston_housing_prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MultilayerNeuralNetwork_with_Numpy/.idea/boston_housing_prediction.iml" filepath="$PROJECT_DIR$/../MultilayerNeuralNetwork_with_Numpy/.idea/boston_housing_prediction.iml" />
     </modules>
   </component>
 </project>
